@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amandasbrn
 - 👀 I’m currently working in business intelligence field, but I am developing my interest to data science, machine learning, and artificial intelligence
-- 🌱 I’m currently learning data science fundamentals and machine learning!
 - 📫 Reach me on dirasabrina@gmail.com!
 
 <!---
