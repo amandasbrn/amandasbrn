@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Dira</h1>
 <h3 align="center">I am an aspire Data Scientist with interest in predictive analytics and artificial intelligence</h3>
 
-- 🌱 I’m currently **deepening my machine learning knowledge and leveling myself up to neural networks with PyTorch and TensorFlow.**
+- 🌱 I’m currently **deepening my machine learning knowledge and leveling myself up to neural network with TensorFlow and NLP (Transformer)**
   
 - 🏗️ In this page, you will find my projects on data analysis, data visualization, and machine learning. I will share more of my projects so stay tuned!
 
