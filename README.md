@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Dira</h1>
-<h3 align="center">I am an aspire Data Scientist with interest in predictive analytics and artificial intelligence</h3>
+<h2 align="left">Hi 👋 I'm Dira</h2>
+<h3 align="left">I am an aspiring Data Scientist with an interest in data science, machine learning, AI</h3>
 
 - 🌱 I’m currently **deepening my machine learning knowledge and leveling myself up to neural network with TensorFlow and NLP (Transformer)**
   
