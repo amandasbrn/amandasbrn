@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋 I'm Dira</h2>
-<h3 align="left">I am an aspiring Data Scientist with an interest in data science, machine learning, AI</h3>
-
-- 🌱 I’m currently **deepening my machine learning knowledge and leveling myself up to neural network with TensorFlow and generative AI**
-  
-- 🏗️ In this page, you will find my projects on data analysis, data visualization, and machine learning. I will share more of my projects so stay tuned!
+<h3 align="left">I am an aspiring engineer with interests in data science, AI, web development</h3>
 
 - 👨‍💻 My data analytics projects are available at [https://bit.ly/dira-portfolio](https://bit.ly/dira-portfolio)
 
