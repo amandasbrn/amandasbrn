@@ -1,5 +1,5 @@
 <h2 align="left">Hi!👋 I'm Dira</h2>
-<h3 align="left">A data scientist with 3+ years of experience in business intelligence and interest in the combination of software engineering and artificial intelligence.</h3>
+<h3 align="left">A data scientist with interest in the combination of software engineering and artificial intelligence. I also have 3+ years of experience in business intelligence.</h3>
 
 - 👨‍💻 My data analytics projects are available at [https://bit.ly/dira-portfolio](https://bit.ly/dira-portfolio)
 
