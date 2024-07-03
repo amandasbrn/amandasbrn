@@ -1,4 +1,5 @@
 <h2 align="left">Hi!👋 I'm Dira</h2>
+
 - 📚 I am pursuing front-end development (currently learning JavaScript & React), while also deepening my knowledge in machine learning and AI
 
 - 💼 I have 3+ years of experience in business intelligence
