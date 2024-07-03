@@ -1,5 +1,7 @@
 <h2 align="left">Hi!👋 I'm Dira</h2>
-<h3 align="left">I am pursuing front-end development (currently learning JavaScript & React), while also deepening my knowledge in machine learning and AI.</h3>
+- 📚 I am pursuing front-end development (currently learning JavaScript & React), while also deepening my knowledge in machine learning and AI
+
+- 💼 I have 3+ years of experience in business intelligence
 
 - 👨‍💻 My data analytics projects are available at [https://bit.ly/dira-portfolio](https://bit.ly/dira-portfolio)
 
