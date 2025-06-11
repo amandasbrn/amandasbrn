@@ -1,10 +1,8 @@
 <h2 align="left">Hi!👋 I'm Dira</h2>
 
-- 📚 I am pursuing front-end development (currently learning JavaScript & React), while also deepening my knowledge in machine learning and AI
+- 📚 I am pursuing Master of Data Science at The University of Sydney, Australia
 
-- 💼 I have 3+ years of experience in business intelligence
-
-- 👨‍💻 My data analytics projects are available at [https://bit.ly/dira-portfolio](https://bit.ly/dira-portfolio)
+- 💼 I have 3+ years of experience as a Business Intelligence Analyst and 1 year as a Data Scientist
 
 - 📫 Reach me through my email: **dirasabrina@gmail.com**
 
