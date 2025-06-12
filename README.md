@@ -1,6 +1,6 @@
 # **Hi, I'm Dira 👋**
 
-👩🏻‍💻 I have 3+ years of experience as a Business Intelligence Analyst and 1 year as a Data Scientist
+👩🏻‍💻 I have 3+ years of professional experience as a Business Intelligence Analyst and 1 year as a Data Scientist
 
 💡 My current focus is AI engineering, artificial intelligence and its application
 
